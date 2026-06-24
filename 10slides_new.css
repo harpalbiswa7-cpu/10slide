@@ -1,0 +1,220 @@
+.temple-container{
+    background-image: url('https://www.thegreattrip.in/famousplace/503294_Jagannath%20Temple,%20Puri.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    font-family: 'Arial', sans-serif;
+  
+}
+
+.overlay-text {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-transform: Sentence case;
+    font-size:xx-large;
+}
+
+.image06{
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20251117/pngtree-a-stunning-split-view-of-tropical-island-paradise-revealing-vibrant-coral-image_20312311.webp')
+    ;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    font-family: 'Arial', sans-serif;
+}
+.text{
+     position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-transform: Sentence case;
+      font-size:xx-large;
+
+}
+
+.pr34{
+    background-image: url('https://media.istockphoto.com/id/1089401904/photo/group-of-six-south-asian-indian-mans.jpg?s=2048x2048&w=is&k=20&c=mR6GGxIVU8_Lm-YnTUQCjRAJbjwotcu2_BXfxuCocmE=');
+    background-size: cover ;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.des7{
+     position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-transform: Sentence case;
+      font-size:xx-large;
+}
+
+
+.i07{
+    background-image: url('https://images.unsplash.com/photo-1507187632231-5beb21a654a2?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8NGslMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    font-family: 'Arial', sans-serif;
+}
+.t2{
+     position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-transform: Sentence case;
+      font-size:xx-large;
+}
+.o9{
+    background-image: url('https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;    
+    height: 100vh;
+    position: relative;
+    font-family: 'Arial', sans-serif;
+}
+.t67{
+     position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-transform: Sentence case;
+      font-size:xx-large;
+
+}
+
+.m20{
+    background-image: url('https://media.istockphoto.com/id/2214379043/photo/three-students-discussing-together-on-a-book-at-school-campus.jpg?s=2048x2048&w=is&k=20&c=Jrl61p1e7px_0MdJUMC5pCdzudHX74eTtI7DQ_PojgI=');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;  
+    position: relative;
+    font-family: 'Arial', sans-serif;
+}
+.t6{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-transform: Sentence case;
+      font-size:xx-large;
+}
+
+.o8{
+    background-image: url('https://images.wallpapersden.com/image/download/4k-the-sunset-to-aspire_bmdubWWUmZqaraWkpJRobWllrWdma2U.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    font-family: 'Arial', sans-serif;
+}
+.t47{
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        max-width: 400px;
+        color: white;
+        font-size: 1.1rem;
+        line-height: 1.4;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+        text-transform: Sentence case;
+          font-size:xx-large;
+}
+.m19{
+    background-image: url('https://media.istockphoto.com/id/2187124291/photo/indian-happy-young-adult-gen-z-beautiful-woman-lady-standing-use-mobile-phone-typing-message.jpg?s=2048x2048&w=is&k=20&c=3eqd5bCy7SKd2rf2ZjX-U1Kzhgr9apqGFnFuoNw0F6I=');
+    background-position: center;    
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    font-family: 'Arial', sans-serif;
+}
+.t5{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-transform: Sentence case;
+      font-size:xx-large;
+}
+
+.t78{
+    background-image: url('https://media.istockphoto.com/id/2254705239/photo/stonechat-bird-perched-on-a-branch-with-yellow-wildflowers-in-soft-natural-light.jpg?s=2048x2048&w=is&k=20&c=-CrG0ZqkDycBD6pm2rAx8yCyDL3IbeJtsdWBfOQn2HQ='); 
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.u6{
+        position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-transform: Sentence case;
+      font-size:xx-large;
+
+}
+.er56{
+    background-image: url('https://media.istockphoto.com/id/1143732091/photo/highway-road-in-bright-sunny-day.jpg?s=2048x2048&w=is&k=20&c=aYCB59b7Ntr7uamFwr5Zc9sguWbZsTkbDRQCdqXXOYM=');
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.yt5{
+     position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    color: white;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    text-transform: Sentence case;
+      font-size:xx-large;
+}
